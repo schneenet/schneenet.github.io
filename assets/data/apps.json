@@ -2,7 +2,7 @@
     {
         "name":"PuttyColors",
         "title":"PuTTY Colors",
-        "url":"//putty.schneenet.com",
+        "url":"https://github.com/helluvamatt/PuttyColors",
         "icon":"assets/data/apps/PuttyColors.png",
         "description":"Create and share <em>PuTTY</em> color profiles.",
         "tags":[
